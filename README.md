@@ -13,5 +13,5 @@
 ## Credits
 
 * Theme by [sainnhe](https://github.com/sainnhe)
-* Ported by @motivatedclock (Discord)
+* Ported by [motivatedclock](https://github.com/Motivaetdclock)
 * You can learn more about the everforest theme [here](https://github.com/sainnhe/everforest)
