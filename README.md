@@ -5,10 +5,10 @@
 
 * Pick Menu > Preferences in GMEdit
 * Click "manage" under the "Theme" section
-* Unzip a [release](https://github.com/YellowAfterlife/dracula-gmedit/releases) (everforest.zip) into themes directory so that you have `.../themes/everforest/config.json`
+* Unzip a [release](https://github.com/tthrelfo/everforest-gmedit/releases/tag/v1.0.0.0) (everforest.zip) into the "themes" directory so that you have `.../themes/everforest/config.json`
 * Restart GMEdit
 * Pick Menu > Preferences again
-* If all is well, you should be able to select the "everforest" theme now.
+* If all went well, you should be able to select the "everforest" theme
 
 ## Credits
 
