@@ -1,0 +1,5 @@
+{
+  "parentTheme": "dark",
+	"stylesheets": ["everforest.css"],
+	"darkChromeTabs": true
+}

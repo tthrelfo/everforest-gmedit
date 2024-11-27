@@ -1,0 +1,3 @@
+#main .gml .ace_line:not(:first-child) .ace_preproc.ace_define::after {color: #ffffff;}
+#main .gml .ace_line:not(:first-child) .ace_preproc.ace_section::after {color: #ffffff;}
+#main .gml .ace_line:not(:first-child) .ace_preproc.ace_event::after {color: #ffffff;}
